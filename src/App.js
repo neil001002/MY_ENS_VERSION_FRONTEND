@@ -9,7 +9,7 @@ import polygonLogo from "./assets/polygonlogo.png";
 import ethLogo from "./assets/ethlogo.png";
 import { networks } from "./utils/networks";
 
-const TWITTER_HANDLE = "_buildspace";
+const TWITTER_HANDLE = "neil001002";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 // Add the domain you will be minting
 const tld = ".dev";
@@ -461,7 +461,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`built with @${TWITTER_HANDLE}`}</a>
+          >{`built by @${TWITTER_HANDLE}`}</a>
         </div>
       </div>
     </div>
